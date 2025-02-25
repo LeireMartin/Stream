@@ -1,6 +1,9 @@
-package modelo;
+package metodos;
 
 import java.util.List;
+
+import listas.ListaAlumnos;
+import modelo.Alumno;
 
 public class FiltrarAlumnos {
 	

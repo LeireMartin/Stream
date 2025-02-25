@@ -1,7 +1,9 @@
-package modelo;
+package listas;
 
 import java.util.Arrays;
 import java.util.List;
+
+import modelo.Alumno;
 
 public class ListaAlumnos {
 
